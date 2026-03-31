@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "CからはじまるABC",
+  "base_artist": "Eriko Hashimoto、Wasureranneyo",
+  "createdAt": "2026-03-31T02:31:31.693261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CからはじまるABC",
+      "artist": "Wasureranneyo",
+      "has_synced": false,
+      "path": "select/01_CからはじまるABC_Wasureranneyo.txt"
+    }
+  ]
+}
